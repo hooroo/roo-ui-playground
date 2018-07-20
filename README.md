@@ -1,14 +1,16 @@
-# Roo UI playground
+![](assets/logo.png)
+
+# Playground
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and comes pre-installed with [Roo UI](https://github.com/hooroo/roo-ui/).
 
 ## Setup
 
-1. Make sure you have a recent version of [node.js](https://nodejs.org/en/) installed
-2. Run `npm install` (or `yarn`) to install the project's dependencies
-3. Run `npm start` or `yarn start` to run the app in development mode
+1.  Make sure you have a recent version of [Node.js](https://nodejs.org/en/) installed
+2.  Run `npm install` or `yarn` to install the project's dependencies
+3.  Run `npm start` or `yarn start` to run the app in development mode
 
-## Available Scripts
+## Available scripts
 
 In the project directory, you can run:
 
