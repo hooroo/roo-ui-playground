@@ -2,7 +2,6 @@ import React, { Fragment } from 'react';
 import { qantasHotels } from '@roo-ui/logos';
 import {
   Container,
-  Flex,
   Box,
   Heading,
   Paragraph,
