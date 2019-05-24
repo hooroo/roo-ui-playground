@@ -1,5 +1,5 @@
-import React, { Fragment } from 'react';
-import { qantasHotels } from '@roo-ui/logos';
+import React, { Fragment } from "react";
+import { qantasHotels } from "@roo-ui/logos";
 import {
   Container,
   Box,
@@ -7,7 +7,7 @@ import {
   Paragraph,
   Button,
   Image
-} from '@roo-ui/components';
+} from "@roo-ui/components";
 
 const App = () => (
   <Fragment>
@@ -25,7 +25,7 @@ const App = () => (
         </Paragraph>
 
         <Button
-          is="a"
+          as="a"
           href="https://github.com/hooroo/roo-ui/"
           target="_blank"
           rel="noopener noreferrer"
