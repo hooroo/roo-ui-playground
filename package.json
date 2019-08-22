@@ -3,29 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@emotion/core": "^10.0.10",
-    "@emotion/styled": "^10.0.11",
-    "@roo-ui/assets": "^0.58.10",
-    "@roo-ui/components": "^0.62.0",
-    "@roo-ui/fonts": "^0.57.2",
-    "@roo-ui/icons": "^0.61.4",
-    "@roo-ui/logos": "^0.58.10",
-    "@roo-ui/test-utils": "^0.58.10",
-    "@roo-ui/themes": "^0.61.0",
-    "emotion-theming": "^10.0.10",
-    "normalize.css": "^8.0.1",
-    "polished": "^3.3.2",
-    "prop-types": "^15.7.2",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
-    "styled-system": "^4.2.2"
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "3.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
   },
   "browserslist": {
     "production": [
